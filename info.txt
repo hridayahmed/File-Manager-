@@ -1,0 +1,5 @@
+username: admin
+pass: admin@123
+
+
+Login Details : admin/admin@123 | user/12345
